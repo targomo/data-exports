@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-01-28T08:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26651505",
+        "name": "Baia Blu",
+        "natural": "beach",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8855042,
+          44.0832113
+        ]
+      },
+      "id": "way/26651505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/176976025",
+        "name": "Spiaggia della Marossa",
+        "natural": "beach",
+        "place": "locality",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9442039,
+          44.0508212
+        ]
+      },
+      "id": "way/176976025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351818335",
+        "natural": "beach",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9090468,
+          44.0793576
+        ]
+      },
+      "id": "way/351818335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351818665",
+        "fee": "no",
+        "name": "Venere Azzurra",
+        "natural": "beach",
+        "wikidata": "Q4009558",
+        "wikipedia": "it:Venere Azzurra",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9067634,
+          44.0809993
+        ]
+      },
+      "id": "way/351818665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369277270",
+        "access": "yes",
+        "name": "Bunker",
+        "natural": "beach",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9236515,
+          44.0642498
+        ]
+      },
+      "id": "way/369277270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369388118",
+        "access": "yes",
+        "natural": "beach",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9247718,
+          44.0633519
+        ]
+      },
+      "id": "way/369388118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369388493",
+        "access": "permissive",
+        "name": "Eco del mare",
+        "natural": "beach",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.919694,
+          44.0673911
+        ]
+      },
+      "id": "way/369388493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/583932355",
+        "name": "San Terenzo Beach",
+        "natural": "beach",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.898026,
+          44.0831216
+        ]
+      },
+      "id": "way/583932355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619457515",
+        "name": "Spiaggia del Groppolo",
+        "natural": "beach",
+        "surface": "sand",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9397328,
+          44.0541115
+        ]
+      },
+      "id": "way/619457515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4879038153",
+        "name": "Caletta",
+        "natural": "beach",
+        "surface": "sabbia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9151582,
+          44.0707229
+        ]
+      },
+      "id": "node/4879038153"
+    }
+  ]
+}
