@@ -1,0 +1,6 @@
+lat,lng,name,size,adress,Revenue (€),Expenses (€),employees,registers,parking lots,opening hours
+52.5267962,13.3325126,Store Turmstraße,800,Turmstraße 72-73,1000000,732000,8,4,4,10:00 - 20:00
+52.510782,13.3895713,Store Friedrichstraße,400,Friedrichstraße 191,480000,290000,4,1,0,10:00 - 20:00
+52.50031,13.355,Store Else-Lasker-Schüler-Straße,390,Else-Lasker-Schüler-Straße 18,490000,310000,4,1,2,10:00 - 20:00
+52.5428226,13.4416697,Store Greifswalder Str.,580,Greifswalder Str. 89,570000,376000,5,2,1,10:00 - 20:00
+52.5102045,13.4079197,Store Chausseestraße,750,Chausseestraße 10,1400000,982000,7,3,8,10:00 – 21:00
